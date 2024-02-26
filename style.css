@@ -71,6 +71,7 @@ p{font-size: larger;}
         
         button{
         margin-left: 78px;
+        margin-bottom: 12px;
         font-size: 30px;
         width: 360px;
         height: 36px;
@@ -80,7 +81,7 @@ p{font-size: larger;}
         button:hover{
             background-color: rgb(7, 146, 7);
             transition-property: all;
-            transition-duration: 0.5s;
+            transition-duration: 0.25s;
             transition-timing-function: ease-in;
         }
         
